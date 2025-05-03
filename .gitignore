@@ -3,3 +3,5 @@
 docker-compose.yaml
 zeabur-template.yaml
 .DS_Store
+.env.*
+.env
